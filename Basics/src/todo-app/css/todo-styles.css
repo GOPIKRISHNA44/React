@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+}
+
+.todo-body {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.tasksDisplay
+{
+ border: 1px solid black;
+ width: 50%;
+}
+.completedTasksDisplay{
+    border: 1px solid black;
+    width: 50%;
+}
+.listDisplay
+{
+    display: inline-flex;
+    width: 100%;
+}
+.inputDiv
+{
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
